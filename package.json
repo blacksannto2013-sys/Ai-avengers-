@@ -1,0 +1,12 @@
+{
+  "name": "ai-avengers-hq",
+  "version": "1.0.0",
+  "description": "WebSocket hub + AI connectors for AI Avengers HQ",
+  "main": "hq-server.js",
+  "scripts": {
+    "start": "node hq-server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
